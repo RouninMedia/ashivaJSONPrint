@@ -1,5 +1,5 @@
 # ashivaJSONPrint Function
-Building on PHP `JSON_PRETTY_PRINT`. Printing out the JSON from Ashiva Codesheets, Ashiva Sitemaps etc.  in a custom format.
+Extending PHP's `JSON_PRETTY_PRINT` flag in `json_encode()` to print out the JSON from Ashiva Codesheets, Ashiva Sitemaps etc.  in a format customised for Ashiva.
 
 PHP's `JSON_PRETTY_PRINT` flag is certainly better than nothing but, lacking customisation options, it's also *pretty* inflexible.
 
